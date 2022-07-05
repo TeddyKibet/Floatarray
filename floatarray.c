@@ -15,7 +15,7 @@ main(){
   for (i = 0;i < 5;i++){
     storenumbers += numbers[i]; /// pass the values in storenumbers
   }
-  printf("The sum is %d The average is %d ",storenumbers,avg) ///
+  printf("The sum is %d The average is %d ",storenumbers,avg) ///output the sum and average of the array
   
   return 0;
   
